@@ -1,3 +1,6 @@
+[![npm version](https://img.shields.io/npm/v/express-email-verify-secure)](https://www.npmjs.com/package/express-email-verify-secure)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 📦 express-email-verify-secure
 
 Production-ready secure email verification & OTP package for Node.js / Express, written in TypeScript.
