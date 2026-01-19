@@ -1,0 +1,24 @@
+{
+  // Visit https://aka.ms/tsconfig to read more about this file
+  "compilerOptions": {
+    "outDir": "dist",
+    "strict": true,
+    "module": "esnext",
+    "declaration": true,
+    "target": "es2020",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "skipLibCheck":true,
+    "types": ["node"],
+
+    "sourceMap": true,
+    "declarationMap": true,
+
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+
+    "jsx": "react-jsx",
+    "noUncheckedSideEffectImports": true,
+    "moduleDetection": "force",
+  }
+}
