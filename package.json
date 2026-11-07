@@ -23,7 +23,7 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
-    "nodemailer": "^7.0.12",
+    "nodemailer": "^10.1.4",
     "validator": "^13.15.26"
   },
   "devDependencies": {
